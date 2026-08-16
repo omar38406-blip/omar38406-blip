@@ -24,6 +24,7 @@
 
 ### 📊 GitHub Stats
 
+
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=حط_اليوزر_نيم_بتاعك_هنا&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar38406-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
