@@ -28,3 +28,8 @@
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar38406-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/omar-mostafa-2bbb9a373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B6dIg4TQxTOCiSUGFJ6ihHw%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
