@@ -27,7 +27,9 @@
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar38406-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</div> 
+
+---
 
 ### 📫 Connect with Me (Linkedin)
 <p align="left">
